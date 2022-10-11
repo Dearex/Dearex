@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dearex
 - 👀 I’m interested in almost anything, mostly maths, computers, software
 - 🌱 I’m currently learning Python
-- 📫 How to reach me: Twitter @_Dearex_
+- 📫 How to reach me: Twitter @\_Dearex\_
 
 Always open for suggestions or interesting discussions!
 
